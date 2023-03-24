@@ -5,7 +5,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 /**
- * @author arrav
+ * @author arravv
  *
  */
 @Entity
